@@ -1,10 +1,10 @@
 # PyBer_Analysis
 
-##Overview of Pyber Analysis
+## Overview of Pyber Analysis
 
  The CEO of Pyber, V. Isualize has asked that we continue to analyze the ride disparities between three city types: urban, suburban and rural. How does each city type compare with total rides, drivers and average fares? We will need to put our findings into a chart so V. Isualize can easily see the results.
  
- ##Results
+ ## Results
  The table below shows the three city types (urban, suburban, and rural) and their respective total rides, total drivers, total fares, and the average fare per ride and per driver.
  ![table1]
  
@@ -12,9 +12,9 @@
  
  The below line chart puts this table into a more visually appealing and easier to read format. We can easily see that this is only a snapshot of information from January through April 2019. The was an uptick in rides in late February as seen with a sharp rise in each of the three city types. The chart also shows a clear disparity amongst the three different city types-they never intersect and there is a clear upper line, middle line, and lower line-urban, suburban, and rural respectively.
  
- ![PyBer Fare Summary]
+ ![[PyBer Fare Summary](https://github.com/stacybeauregard/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)]
  
- ##Summary
+ ## Summary
  
  Our analysis should be quite helpful to V. Isualize to see how the three city types compare to each other. Some suggestions for PyBer to grow would be
  
