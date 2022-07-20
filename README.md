@@ -6,13 +6,13 @@
  
  ## Results
  The table below shows the three city types (urban, suburban, and rural) and their respective total rides, total drivers, total fares, and the average fare per ride and per driver.
- ![table1]
+ ![table1](https://github.com/stacybeauregard/PyBer_Analysis/blob/main/analysis/table1.png)
  
  The table shows that while the urban city type is undoubtably popular (over 1600 rides and over 2000 drivers) it is not the most profitable. Meanwhile, the more rural areas that PyBer operates generate large fares ($55.49/driver) but doesn't seem to be utilized as frequently with only 125 rides in a four month timeframe.
  
  The below line chart puts this table into a more visually appealing and easier to read format. We can easily see that this is only a snapshot of information from January through April 2019. The was an uptick in rides in late February as seen with a sharp rise in each of the three city types. The chart also shows a clear disparity amongst the three different city types-they never intersect and there is a clear upper line, middle line, and lower line-urban, suburban, and rural respectively.
  
- ![[PyBer Fare Summary](https://github.com/stacybeauregard/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)]
+ ![PyBer Fare Summary](https://github.com/stacybeauregard/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
  
  ## Summary
  
